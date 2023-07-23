@@ -1,4 +1,6 @@
 body{
-    background-image: url(img/thailand-thai-sea-sky-wallpaper-preview.jpg);
-    background-size: 100%;
+    background-image: url(img/junglr.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }

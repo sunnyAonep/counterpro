@@ -2,7 +2,8 @@ body{
     margin: 0;
     padding: 0;
     background-image: url('img/james-bond-island-vegetation-island-sea-stack-wallpaper-preview.jpg');
-    background-size: 100%;
-    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 }
