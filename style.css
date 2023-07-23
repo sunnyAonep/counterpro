@@ -53,6 +53,12 @@ header
    font-size: 18px; 
    font-weight: bold;
 }
+.upstage{
+    color: black;
+    width: auto;
+    font-size: larger;
+    font-weight: bolder;
+}
 
 
  
