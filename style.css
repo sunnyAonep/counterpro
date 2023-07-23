@@ -24,14 +24,15 @@ color: rgb(10, 245, 245);
 .textline{
     font-family: Algerian;
     font-size: 18px;
-    padding-left: 30%;
+    padding-left: 5%;
     width: 700px;
-    color: rgb(78, 9, 143);
+    color: rgb(237, 227, 247);
     font-weight: bolder;
 }
 .headp1{
     color: rgb(60, 0, 116);
     font-size: 30px;
+
 }
 footer{
     color: rgb(62, 26, 95);
