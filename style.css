@@ -77,6 +77,12 @@ nav {
     padding: 24px;
     opacity: 0.9;
 }
-
-
- 
+ a {
+    text-decoration: none;
+    color: #70f899;
+}
+a:hover {
+    transform: scale(1.1);
+    font-weight: bold;
+    text-decoration: underline;
+}
